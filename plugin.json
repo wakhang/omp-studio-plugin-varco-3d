@@ -1,0 +1,15 @@
+{
+  "id": "varco-3d",
+  "name": "VARCO 3D",
+  "version": "0.2.0",
+  "description": "VARCO 3D 플로우 편집기를 OMP Studio 안 숨은 창에서 계속 띄워 두어, 브라우저 없이 varco-3d MCP를 쓰게 합니다.",
+  "main": "main.js",
+  "renderer": "renderer.js",
+  "tags": [
+    "VARCO",
+    "3D",
+    "MCP",
+    "에셋"
+  ],
+  "usage": "브라우저 없이 varco-3d MCP를 씁니다. 사이드바 \"VARCO 3D\"에서 한 번 로그인하면 편집기가 숨은 창에서 계속 연결됩니다."
+}
